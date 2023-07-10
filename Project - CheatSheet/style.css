@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background-color: gainsboro;
+}
+
+table {
+    border: 3px solid #8B008B;
+    margin: 0 auto;
+    width: 650px;
+}
+
+td {
+    border: 2px solid #8B008B;
+}
+
+th {
+    background-color: #FF00FF;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #9400D3;
+    text-align: center;
+}
+
+.white {
+    font-family: monospace;
+    background-color: beige;
+}
